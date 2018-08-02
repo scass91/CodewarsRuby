@@ -7,4 +7,3 @@ https://www.codewars.com/kata/string-repeat/train/ruby
 def repeat_str (n, s)
 s*n
 end
-repeat_str (5, "Hello")
