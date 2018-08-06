@@ -17,3 +17,9 @@ https://www.codewars.com/kata/a-needle-in-the-haystack/train/ruby
 def find_needle(haystack)
   return "found the needle at position " + haystack.index("needle").to_s
 end
+
+
+#better solution
+#def find_needle(haystack)
+ # "found the needle at position #{haystack.index('needle')}"
+#end
