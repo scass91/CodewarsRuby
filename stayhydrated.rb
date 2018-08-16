@@ -2,7 +2,7 @@
 August 16th 2018
 Stay hydrated!
 8 KYU
-https://www.codewars.com/kata/invert-values/train/ruby
+https://www.codewars.com/kata/keep-hydrated-1/train/ruby
 =end
 
 def litres(time)
